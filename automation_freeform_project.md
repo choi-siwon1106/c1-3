@@ -84,21 +84,72 @@
 
 ## 5️⃣ 실행 결과
 
-### 자동 실행 확인
+---
 
-> ⚠️ 프로젝트 2는 Trigger 발생 시 **자동 실행**되어야 합니다. 자동 실행된 로그/히스토리 캡처를 포함하세요.
+### 🔵 케이스 1 — 정회원 (만점, 100점)
 
-① [경로/케이스 1] 실행 결과
+① 정회원 명단 탭 기록
 
-![실행 결과 1](./Screenshots/project2_result1.png)
+![정회원 명단 기록](./Screenshots/project2_result1_sheet.png)
 
-② [경로/케이스 2] 실행 결과
+② Discord 정회원 합격 알림
 
-![실행 결과 2](./Screenshots/project2_result2.png)
+![Discord 정회원 알림](./Screenshots/project2_result1_discord.png)
 
-③ 실행 로그 / 히스토리
+---
 
-![실행 로그](./Screenshots/project2_log.png)
+### 🔵 케이스 2 — 준회원 (60~99점)
+
+① 준회원 명단 탭 기록
+
+![준회원 명단 기록](./Screenshots/project2_result2_sheet.png)
+
+② OpenAI 피드백 생성 결과
+
+![OpenAI 피드백 출력](./Screenshots/project2_result2_ai.png)
+
+③ Discord 준회원 합격 + AI 피드백 알림
+
+![Discord 준회원 알림](./Screenshots/project2_result2_discord.png)
+
+---
+
+### 🔵 케이스 3 — 불합격 (0~59점)
+
+① 재시험 대기 명단 탭 기록
+
+![재시험 대기 명단 기록](./Screenshots/project2_result3_sheet.png)
+
+② OpenAI 피드백 생성 결과
+
+![OpenAI 피드백 출력](./Screenshots/project2_result3_ai.png)
+
+③ Discord 불합격 안내 + AI 피드백 알림
+
+![Discord 불합격 알림](./Screenshots/project2_result3_discord_instant.png)
+
+④ Discord 재시험 안내 알림 (Wait 경과 후)
+
+![Discord 재시험 안내 알림](./Screenshots/project2_result3_discord_wait.png)
+
+---
+
+### 📋 실행 로그 / 히스토리
+
+① Executions 탭 전체 목록
+
+<!-- 
+  캡처 위치: n8n 상단 Executions 탭 → 3건의 자동 실행 기록이 보이는 화면
+  (Succeeded 초록 표시, 실행 시각 확인 가능해야 함)
+-->
+![실행 히스토리 목록](./Screenshots/project2_log_list.png)
+
+② 자동 실행 상세 확인
+
+<!-- 
+  캡처 위치: Executions 탭에서 실행 1건 클릭 → 각 노드 처리 시간·성공 여부가 보이는 화면
+-->
+![실행 로그 상세](./Screenshots/project2_log_detail.png)
 
 ---
 
