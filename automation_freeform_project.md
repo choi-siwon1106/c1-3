@@ -78,7 +78,7 @@
 
 ### 구현 화면
 
-![워크플로우 구성 화면](./Screenshots/project2_workflow.png)
+![워크플로우 구성 화면](./Screenshots/project1.png)
 
 ---
 
@@ -88,17 +88,17 @@
 
 ### 🔵 응답 시트
 
-![응답 시트](./Screenshots/project1.png)
+![응답 시트](./Screenshots/project2.png)
 
 ### 🔵 케이스 1 — 정회원 (만점, 100점)
 
 ① 정회원 명단 탭 기록
 
-![정회원 명단 기록](./Screenshots/project2.png)
+![정회원 명단 기록](./Screenshots/project3.png)
 
 ② Discord 정회원 합격 알림
 
-![Discord 정회원 알림](./Screenshots/project3.png)
+![Discord 정회원 알림](./Screenshots/project4.png)
 
 ---
 
@@ -106,15 +106,15 @@
 
 ① 준회원 명단 탭 기록
 
-![준회원 명단 기록](./Screenshots/project4.png)
+![준회원 명단 기록](./Screenshots/project5.png)
 
 ② OpenAI 피드백 생성 결과
 
-![OpenAI 피드백 출력](./Screenshots/project5.png)
+![OpenAI 피드백 출력](./Screenshots/project6.png)
 
 ③ Discord 준회원 합격 + AI 피드백 알림
 
-![Discord 준회원 알림](./Screenshots/project2_result2_discord.png)
+![Discord 준회원 알림](./Screenshots/project7.png)
 
 ---
 
@@ -122,19 +122,19 @@
 
 ① 재시험 대기 명단 탭 기록
 
-![재시험 대기 명단 기록](./Screenshots/project2_result3_sheet.png)
+![재시험 대기 명단 기록](./Screenshots/project8.png)
 
 ② OpenAI 피드백 생성 결과
 
-![OpenAI 피드백 출력](./Screenshots/project2_result3_ai.png)
+![OpenAI 피드백 출력](./Screenshots/project9.png)
 
 ③ Discord 불합격 안내 + AI 피드백 알림
 
-![Discord 불합격 알림](./Screenshots/project2_result3_discord_instant.png)
+![Discord 불합격 알림](./Screenshots/project10.png)
 
 ④ Discord 재시험 안내 알림 (Wait 경과 후)
 
-![Discord 재시험 안내 알림](./Screenshots/project2_result3_discord_wait.png)
+![Discord 재시험 안내 알림](./Screenshots/project11.png)
 
 ---
 
