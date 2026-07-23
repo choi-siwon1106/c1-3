@@ -86,15 +86,19 @@
 
 ---
 
+### 🔵 응답 시트
+
+![응답 시트](./Screenshots/project1.png)
+
 ### 🔵 케이스 1 — 정회원 (만점, 100점)
 
 ① 정회원 명단 탭 기록
 
-![정회원 명단 기록](./Screenshots/project2_result1_sheet.png)
+![정회원 명단 기록](./Screenshots/project2.png)
 
 ② Discord 정회원 합격 알림
 
-![Discord 정회원 알림](./Screenshots/project2_result1_discord.png)
+![Discord 정회원 알림](./Screenshots/project3.png)
 
 ---
 
@@ -102,11 +106,11 @@
 
 ① 준회원 명단 탭 기록
 
-![준회원 명단 기록](./Screenshots/project2_result2_sheet.png)
+![준회원 명단 기록](./Screenshots/project4.png)
 
 ② OpenAI 피드백 생성 결과
 
-![OpenAI 피드백 출력](./Screenshots/project2_result2_ai.png)
+![OpenAI 피드백 출력](./Screenshots/project5.png)
 
 ③ Discord 준회원 합격 + AI 피드백 알림
 
