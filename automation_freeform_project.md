@@ -138,22 +138,9 @@
 
 ---
 
-### 📋 실행 로그 / 히스토리
+### Executions 탭 전체 목록
 
-① Executions 탭 전체 목록
-
-<!-- 
-  캡처 위치: n8n 상단 Executions 탭 → 3건의 자동 실행 기록이 보이는 화면
-  (Succeeded 초록 표시, 실행 시각 확인 가능해야 함)
--->
-![실행 히스토리 목록](./Screenshots/project2_log_list.png)
-
-② 자동 실행 상세 확인
-
-<!-- 
-  캡처 위치: Executions 탭에서 실행 1건 클릭 → 각 노드 처리 시간·성공 여부가 보이는 화면
--->
-![실행 로그 상세](./Screenshots/project2_log_detail.png)
+![실행 히스토리 목록](./Screenshots/project12.png)
 
 ---
 
@@ -187,7 +174,5 @@
 
 | 파일명 | 설명 |
 |--------|------|
-| `project2_design.png` | 워크플로우 설계 다이어그램 |
-| `project2_workflow.png` | 구현 화면 |
-| `project2_result1.png` ~ | 실행 결과 화면 |
-| `project2_log.png` | 자동 실행 로그 |
+| `project1.png` | 구현 화면 |
+| `project2~12.png` ~ | 실행 결과 화면 |
